@@ -1,0 +1,8 @@
+{
+  "name": "Lumen AI",
+  "description": "Lumen AI is an intelligent web platform designed for middle school, university, and technical students. It offers a suite of AI-powered tools for academic support, task resolution, study organization, and skill development.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "prompt": ""
+}
